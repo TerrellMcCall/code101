@@ -9,7 +9,7 @@ ls<br>
   mkdir<br>
   -create directory name <br>
 
-// every git command starts with git
+// every git command starts with git<br>
 git status<br>
 
 - get the status of the repo<br>
