@@ -36,3 +36,10 @@ git status<br>
 - adds all the html files<br>
   git add . <br>
 - adds everything in the repo<br>
+  git branch <br>
+- creates a branch to work on befor pushed to the master <br>
+  git checkout <br>
+- this is how you change to the branch. git checkout then the branch name you wont to login to <br>
+  git merge <br>
+- git merge then the file name merges the file to the master <br>
+  this is a command file
