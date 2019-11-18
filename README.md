@@ -10,6 +10,7 @@ ls<br>
   -create directory name <br>
 
 // every git command starts with git<br>
+
 git status<br>
 
 - get the status of the repo<br>
@@ -22,3 +23,16 @@ git status<br>
 - "publish backup and share"<br>
   git log <br>
 - record of all the commits <br>
+  git init<br>
+- this function creates a repo patch in the current folder<br>
+  git config --global user.name ''<br>
+  git config --global user.email ''<br>
+- enter user name and email one at a time<br>
+  git rm --cashed <br>
+- to remove files from the staging area after cashed put file name<br>
+  git add \*<br>
+- adds spacific files types in the repo <br>
+  git add \*.html <br>
+- adds all the html files<br>
+  git add . <br>
+- adds everything in the repo<br>
