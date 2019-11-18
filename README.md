@@ -42,4 +42,6 @@ git status<br>
 - this is how you change to the branch. git checkout then the branch name you wont to login to <br>
   git merge <br>
 - git merge then the file name merges the file to the master <br>
-  this is a command file
+  git pull<br>
+- updated the files that were updated by other users<br>
+  this is a command file<br>
