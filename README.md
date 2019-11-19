@@ -48,3 +48,4 @@ git status<br>
   git push --set-upstream origin<br>
 - this command sets a branch to github repo<br>
   yeah
+  git init<br>
